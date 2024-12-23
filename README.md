@@ -1,7 +1,7 @@
 Here's your FORTRAN-style README.md, written as if by a programmer from the 1960s:
 
 # ALCOUNTING TELEGRAM BOT (FORTRAN-77 EDITION)
-[![code-quality](https://github.com/NikitosKey/alcounting_bot/actions/workflows/fortran-code-quality.yml/badge.svg)](https://github.com/NikitosKey/alcounting_bot/actions/workflows/fortran-code-quality.yml)
+[![code-quality](here)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 *A PROPER PROGRAM FOR PARTY MANAGEMENT, WRITTEN IN GOD'S LANGUAGE - FORTRAN*
 
