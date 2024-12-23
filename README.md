@@ -1,5 +1,3 @@
-Here's your FORTRAN-style README.md, written as if by a programmer from the 1960s:
-
 # ALCOUNTING TELEGRAM BOT (FORTRAN-77 EDITION)
 [![code-quality](here)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
